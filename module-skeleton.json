@@ -1,0 +1,15 @@
+{
+  "repository": "module-automation-ai-gateway-react-native",
+  "capabilityKey": "liberusoftware/automation-ai-gateway",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-automation-ai-gateway-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/automation/nextjs/ai-gateway.md",
+  "presentationPlan": "projects/automation/react-native/ai-gateway.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "automation"
+  ]
+}
